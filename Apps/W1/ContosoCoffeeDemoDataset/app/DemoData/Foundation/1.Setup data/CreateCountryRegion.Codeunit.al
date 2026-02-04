@@ -540,7 +540,7 @@ codeunit 5205 "Create Country/Region"
         MalaysiaLbl: Label 'Malaysia', MaxLength = 50;
         MozambiqueLbl: Label 'Mozambique', MaxLength = 50;
         NigeriaLbl: Label 'Nigeria', MaxLength = 50;
-        NorthernIrelandLbl: Label 'Nothern Ireland', MaxLength = 50;
+        NorthernIrelandLbl: Label 'Northern Ireland', MaxLength = 50;
         NetherlandsLbl: Label 'Netherlands', MaxLength = 50;
         NorwayLbl: Label 'Norway', MaxLength = 50;
         NewZealandLbl: Label 'New Zealand', MaxLength = 50;
